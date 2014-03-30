@@ -1,0 +1,11 @@
+/bin/
+/include/
+/lib/
+/man/
+*.py[co]
+/.sass-cache/
+/share/
+/shelve.db
+/static/scripts/*.js
+/static/styles/*.css
+/static/vendor/
